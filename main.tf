@@ -360,7 +360,7 @@ resource "aws_s3_bucket" "example" {
   bucket = "rahamtestbycketterra7788abcdefxxc"
 
   tags = {
-    Name        = "rahamtestbycketterra7788abcdefxxc"
+    Name        = "rahamtestbycketterra7788abcdefxxc555"
     Environment = "Dev"
   }
 }
